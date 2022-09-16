@@ -90,3 +90,7 @@ button {
 button:active {
     transform: scale(0.97);
 }
+
+.cell{
+    cursor: url('/home/saketh/Desktop/odin-project/repos/Etch-a-Sketch/images');
+}
